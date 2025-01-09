@@ -5,12 +5,12 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Biz Xalapa 🏵️",
-  description: "Tu revista digital 🛍️",
+  title: "✨ Una Idea Más 🎨",
+  description: "¡Bienvenido al canal donde la inspiración nunca termina! 🚀 Aquí encontrarás una colección exclusiva de diseños gráficos, vectores editables y recursos creativos ideales para diseñadores, ilustradores y amantes del arte visual.",
   openGraph: {
-    title: "Biz Xalapa 🏵️",
-    description: "Tu revista digital 🛍️",
-    images: ["https://bizxalapa.unaideamas.com/img/front-page-example.jpg"],
+    title: "✨ Una Idea Más 🎨",
+    description: "¡Bienvenido al canal donde la inspiración nunca termina! 🚀 Aquí encontrarás una colección exclusiva de diseños gráficos, vectores editables y recursos creativos ideales para diseñadores, ilustradores y amantes del arte visual.",
+    images: ["https://bizxalapa.unaideamas.com/img/image.jpg"],
   },
   metadataBase: new URL("https://bizxalapa.unaideamas.com"),
 };
